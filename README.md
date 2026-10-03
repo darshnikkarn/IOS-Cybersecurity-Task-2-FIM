@@ -67,3 +67,9 @@ IOS-Cybersecurity-Task-2/
     ├── 03-added-file.png
     ├── 04-deleted-file.png
     └── 05-watch-mode.png
+
+## Demo Video
+
+A short demonstration of the File Integrity Monitor showing baseline creation, integrity checking, file modification detection, and watch mode.
+
+[Watch the FIM Demo Video](https://drive.google.com/file/d/1VnDx0jKZwbA6zduUQEEyLga1uxpv9uAM/view?usp=sharing)
